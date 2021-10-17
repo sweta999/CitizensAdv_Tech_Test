@@ -1,0 +1,142 @@
+2021-10-14 13:10:863 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 13:10:257 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 13:10:850 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 14:10:147 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 14:10:898 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 14:10:589 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 14:10:486 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 18:10:282 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 18:10:349 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 18:10:123 INFO  HomePage :32 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-14 18:10:919 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-14 18:10:472 INFO  HomePage :32 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-14 18:10:781 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:927 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:358 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:806 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:322 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:926 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:04 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:461 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:10 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:823 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:114 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:857 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:183 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:684 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:89 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:303 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 16:10:40 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:609 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:540 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:367 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:658 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:208 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:398 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 16:10:293 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:926 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:258 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:261 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:472 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:855 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:713 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 22:10:241 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:383 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:736 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:174 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:720 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:788 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:979 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:570 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:698 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:305 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:102 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:179 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:344 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:886 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:952 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:431 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:488 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:591 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:891 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:220 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:502 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:653 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:563 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:827 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-16 23:10:138 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-16 23:10:316 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-16 23:10:651 INFO  HomePage :46 - Clicking on list of Items linkBy.xpath: //nav[@id='main-nav']<br>
+2021-10-17 00:10:89 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:146 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:524 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:253 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:316 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:710 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:771 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:993 INFO  ImmigrationPage :36 - Click on Staying in the UK on a visa link : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:29 INFO  StayingInUKOnVisaWithoutPartnerPage :24 - Verifying the Text, Staying in the UK on a visa without your partner : By.xpath: //body/div[1]/div[4]/div[1]/div[1]/div[1]/main[1]/h1[1]/span[1]/span[1]
+2021-10-17 00:10:622 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:66 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:339 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:404 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:717 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:884 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:122 INFO  ImmigrationPage :36 - Click on Staying in the UK on a visa link : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:143 INFO  StayingInUKOnVisaWithoutPartnerPage :24 - Verifying the Text, Staying in the UK on a visa without your partner : By.xpath: //body/div[1]/div[4]/div[1]/div[1]/div[1]/main[1]/h1[1]/span[1]/span[1]
+2021-10-17 00:10:147 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:535 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:659 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:847 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:906 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:692 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:356 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:575 INFO  ImmigrationPage :36 - Click on Staying in the UK on a visa link : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:324 INFO  StayingInUKOnVisaWithoutPartnerPage :24 - Verifying the Text, Staying in the UK on a visa without your partner : By.xpath: //body/div[1]/div[4]/div[1]/div[1]/div[1]/main[1]/h1[1]/span[1]/span[1]
+2021-10-17 00:10:337 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:263 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:326 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:918 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:43 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:81 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:141 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:358 INFO  ImmigrationPage :36 - Click on Staying in the UK on a visa link : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:369 INFO  StayingInUKOnVisaWithoutPartnerPage :25 - Verifying the Text, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:427 INFO  StayingInUKOnVisaWithoutPartnerPage :30 - Verifying the Link, search for an immigration adviser : By.xpath: //a[contains(text(),'search for an immigration adviser')]
+2021-10-17 00:10:706 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:779 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:845 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:565 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:673 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:434 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:488 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:224 INFO  ImmigrationPage :36 - Click on Staying in the UK on a visa link : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:233 INFO  StayingInUKOnVisaWithoutPartnerPage :25 - Verifying the Text, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:286 INFO  StayingInUKOnVisaWithoutPartnerPage :30 - Verifying the Link, search for an immigration adviser : By.xpath: //a[contains(text(),'search for an immigration adviser')]
+2021-10-17 00:10:958 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:814 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:896 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:399 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:463 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:294 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:492 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:746 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:522 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:580 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:902 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:294 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:742 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:13 INFO  ImmigrationPage :30 - Verifying the Link, Staying in the UK on a visa without your partner : By.xpath: //a[contains(text(),'Staying in the UK on a visa without your partner')]
+2021-10-17 00:10:515 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 00:10:748 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 00:10:814 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 00:10:628 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 00:10:548 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 01:10:94 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 01:10:158 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 01:10:729 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
+2021-10-17 01:10:552 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 01:10:775 INFO  BasePage :30 - Launching Chrome Browser 
+2021-10-17 01:10:517 INFO  HomePage :37 - Verify Text, Welcome to Citizens Advice : By.xpath: //h1[contains(text(),'Welcome to Citizens Advice')]
+2021-10-17 01:10:569 INFO  HomePage :58 - Clicking on the Immigration TabBy.xpath: //body/nav[@id='main-nav']/ul[1]/li[8]/a[1]<br>
+2021-10-17 01:10:447 INFO  ImmigrationPage :25 - Verifying the Text, Immigration : By.xpath: //h1[contains(text(),'Immigration')]
